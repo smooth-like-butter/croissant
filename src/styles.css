@@ -1,6 +1,23 @@
 body {
   background-color: #daa492;
+  max-width: 800px;
 }
 h1 {
   text-align: center;
+}
+p {
+  text-align: center;
+}
+footer {
+  text-align: center;
+}
+footer a {
+  margin: 0 10px;
+  color: #537284;
+}
+img {
+  display: block;
+  border-radius: 10px;
+  max-width: 100%;
+  margin: auto;
 }
