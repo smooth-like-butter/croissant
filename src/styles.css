@@ -1,8 +1,10 @@
 body {
   background-color: #daa492;
-  max-width: 800px;
 }
 h1 {
+  text-align: center;
+}
+h2 {
   text-align: center;
 }
 p {
@@ -20,4 +22,9 @@ img {
   border-radius: 10px;
   max-width: 100%;
   margin: auto;
+}
+.email-link {
+  display: block;
+  text-align: center;
+  padding-bottom: 20px;
 }
